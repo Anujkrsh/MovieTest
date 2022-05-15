@@ -25,3 +25,7 @@ Some working Snapshots-
 ![data_, - Google Chrome 15-05-2022 20_34_54](https://user-images.githubusercontent.com/60975756/168479770-afaac655-08ee-4cda-b2cb-1fd2fd454e72.png)
 ![workspace-spring-tool-suite-4-4 14 0 RELEASE - Spring Tool Suite 4 15-05-2022 20_39_06](https://user-images.githubusercontent.com/60975756/168479917-633031ca-96d7-4915-b89c-9c69d2a5d8fa.png)
 ![workspace-spring-tool-suite-4-4 14 0 RELEASE - Spring Tool Suite 4 15-05-2022 20_39_50](https://user-images.githubusercontent.com/60975756/168479924-6c0f8d2f-d642-4666-9cf0-28a72d4de491.png)
+
+TestNG Reports-
+![TestNG Report and 1 more page - Personal - Microsoft​ Edge 15-05-2022 20_53_24](https://user-images.githubusercontent.com/60975756/168480536-55c2bfe0-bfc0-4670-be87-c5f4d8d38910.png)
+![TestNG reports - Personal - Microsoft​ Edge 15-05-2022 20_53_05](https://user-images.githubusercontent.com/60975756/168480539-b7c5c021-77f2-4c01-a8a2-1e96e96f76d6.png)

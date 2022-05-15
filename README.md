@@ -13,10 +13,10 @@ Our this Program is also for movie buffs. This program extract two things -
 From both websites i.e. Wikipedia and IMdb, compares the data and validates whether the data on both the websites matches or not.
 
 Pre-requisites-
-TestNG plugin
-Cucumber plugin
-Selenium 
-Maven
+TestNG plugin,
+Cucumber plugin,
+Selenium, 
+Maven,
 IDE
 
 Some working Snapshots- 

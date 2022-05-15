@@ -1,7 +1,7 @@
------------------------------------------Movie Test Automation Project--------------------------------
+-----------------------------------------Movie Test Automation Project---------------------------------
 
 
-IMdb and Wikipedia are two great resource to take information about the movies which were released in past or are releasing in present or will release in future and 
+IMdb and Wikipedia are two great resources to take information about the movies which were released in past or are releasing in present or will release in future and 
 they really helps the movie buffs to decide what to watch 
 
 Our this Program is also for movie buffs. This program extract two things -
